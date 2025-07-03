@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250702_234836", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/bat.bing.com_20250702_234836/request_001.txt", 
+      "url": "https://bat.bing.com:443/p/insights/c/z", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/bat.bing.com_20250702_234836/response_001.txt", 
+      "timestamp": 1751510902221
+    }
+  ], 
+  "host": "bat.bing.com", 
+  "total_requests": 1
+}
