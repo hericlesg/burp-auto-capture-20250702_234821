@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Content-Type: application/json; charset=utf-8
+Date: Thu, 03 Jul 2025 02:48:29 GMT
+Content-Length: 29
+Via: 1.1 google
+X-Fs-Path-Matcher: default
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"BundleTime":1751510909319}
