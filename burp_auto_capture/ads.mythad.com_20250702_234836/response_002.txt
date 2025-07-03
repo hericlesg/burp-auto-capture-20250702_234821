@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Content-Type: application/json;charset=UTF-8
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Access-Control-Allow-Credentials: true
+Content-Length: 432
+Date: Thu, 03 Jul 2025 02:48:22 GMT
+Vary: Accept-Encoding
+Set-Cookie: kwai_ckid=1751510367200_41652940801311689; Path=/; Domain=mythad.com; Max-Age=34560000; Expires=Fri, 07 Aug 2026 02:48:22 GMT; Secure; SameSite=None
+
+{"status":200,"message":"æå","data":"{\"pixelId\":269700224626311,\"optEventSet\":1,\"accountId\":73593087,\"installationType\":1,\"eventData\":[],\"isDeleted\":0,\"pixelName\":\"NoviBte PIXEL\",\"accessMode\":1,\"status\":1,\"pixelExtra\":\"{\\\"dataReturnStatus\\\":false}\"}","host":"public-c34-my01b-kce-node8.idcsgpaz1.sgp.kwaidc.com","port":22966,"timestamp":1751510902008,"traceId":"ELuAgIDQioiUChjPGiD2yb3x_DIo1pnf2gE="}
