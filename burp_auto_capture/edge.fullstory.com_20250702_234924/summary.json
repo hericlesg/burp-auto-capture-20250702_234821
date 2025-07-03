@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250702_234924", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/edge.fullstory.com_20250702_234924/request_001.txt", 
+      "url": "https://edge.fullstory.com:443/s/settings/o-1HRTV4-na1/v1/web?ngsw-bypass=true", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/edge.fullstory.com_20250702_234924/response_001.txt", 
+      "timestamp": 1751510930406
+    }
+  ], 
+  "host": "edge.fullstory.com", 
+  "total_requests": 1
+}
