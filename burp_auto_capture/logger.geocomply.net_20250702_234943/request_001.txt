@@ -1,0 +1,20 @@
+POST /logs?type=myiplog HTTP/1.1
+Host: logger.geocomply.net
+Content-Length: 524
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+{"ts":1751510930355,"session":"364B3765-C10B-4A20-8650-3E2CDDB9BCD2","error_ts":1751510930355,"akey":"","error_code":701,"error_msg":"License is not set","username":"","solution":"SOLUS 2.15.0","os":"Windows","wb":"Chrome","solus_myip_ping_interval":"","myip_url":"","myip_timeout":"","activeStatus":"111111","log":["[1751510923807] [ip] resumable = true","[1751510930351] [ip] startMyIpService()","[1751510930355] [ip] [onMyIpFailure] 701, License is not set","[1751510930355] [ip] onMyIpFailure(701, License is not set)"]}
