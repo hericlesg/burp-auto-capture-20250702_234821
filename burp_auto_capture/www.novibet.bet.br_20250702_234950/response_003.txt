@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 02:48:24 GMT
+Content-Type: application/json; charset=utf-8
+Cache-Control: no-store,no-cache
+Pragma: no-cache
+Vary: Accept-Encoding
+X-F-Lo: 12
+X-F-N: 01
+X-F-N-T: 01
+Cf-Cache-Status: BYPASS
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 9593104e2810f1b1-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"userProfileId":"7093440","bonusSchemeId":null,"bonusSchemeSource":"","bonusSchemeName":"","bonusCredits":null,"bonusTarget":null}
