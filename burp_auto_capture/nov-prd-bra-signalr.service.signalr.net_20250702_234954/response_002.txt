@@ -1,0 +1,10 @@
+HTTP/1.1 101 Switching Protocols
+Date: Thu, 03 Jul 2025 02:48:53 GMT
+Connection: upgrade
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.novibet.bet.br
+upgrade: websocket
+vary: Origin
+sec-websocket-accept: Lq2ocYjxwIh7S0v9g7FfrCtT5DM=
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
