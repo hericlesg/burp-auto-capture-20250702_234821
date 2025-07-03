@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250702_234942", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/realtime-1206.optimove.net_20250702_234942/request_001.txt", 
+      "url": "https://realtime-1206.optimove.net:443/reportEvent", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/realtime-1206.optimove.net_20250702_234942/response_001.txt", 
+      "timestamp": 1751510902484
+    }
+  ], 
+  "host": "realtime-1206.optimove.net", 
+  "total_requests": 1
+}
