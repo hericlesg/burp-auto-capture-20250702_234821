@@ -1,0 +1,15 @@
+HTTP/1.1 201 Created
+access-control-allow-origin: *
+vary: X-HTTP-Method-Override
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+strict-transport-security: max-age=15778476000; includeSubDomains
+content-type: application/json; charset=utf-8
+content-length: 16
+etag: W/"10-MxB4y4MLcx6QDsp8b8vgp7iFMFo"
+date: Thu, 03 Jul 2025 02:48:50 GMT
+set-cookie: SERVERID=i-09bc628459cf81bcf; path=/
+
+{"message":"OK"}
