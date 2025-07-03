@@ -1,0 +1,20 @@
+POST /reportEvent HTTP/2
+Host: realtime-1206.optimove.net
+Content-Length: 674
+X-Request-Id: abb9236d-ddb6-49f1-a2f5-4cb42c0e1e17
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: application/json
+Content-Type: application/json
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+[{"tenant":1206,"category":"track","origin":"sdk","event":"optimove_sdk_metadata","context":{"sdk_platform":"Web","sdk_version":"2.0.21","app_ns":"www.novibet.bet.br","campaign_name":null,"campaign_keyword":null,"campaign_source":null,"campaign_medium":null,"campaign_content":null,"campaign_id":null,"language":"en-us","event_platform":"Windows","event_device_type":"desktop","event_os":"Windows 10","event_native_mobile":"false"},"timestamp":"2025-07-03T02:48:20.535Z","metadata":{"firstVisitorDate":"2025-07-03T02:39:27.049Z","eventId":"248c2ab2-fd3c-4b6c-a405-31767967c434","sdk_platform":"web","sdk_version":"2.0.21"},"visitor":"eb2882efbaa07061","customer":"7093440"}]
