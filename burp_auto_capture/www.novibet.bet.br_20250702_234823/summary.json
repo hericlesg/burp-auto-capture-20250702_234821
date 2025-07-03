@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250702_234823", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250702_234823/request_001.txt", 
+      "url": "https://www.novibet.bet.br:443/spt/feed2/marketviews/location/v2/4324/4793544/?lang=pt-BR&timeZ=E.%20South%20America%20Standard%20Time&oddsR=1&usrGrp=BR&timestamp=227141751510898388", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250702_234823/response_001.txt", 
+      "timestamp": 1751510903869
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250702_234823/request_002.txt", 
+      "url": "https://www.novibet.bet.br:443/spt/feed2/marketviews/location/v2/4324/6051394/?lang=pt-BR&timeZ=E.%20South%20America%20Standard%20Time&oddsR=1&usrGrp=BR&timestamp=227141751510899751", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250702_234823/response_002.txt", 
+      "timestamp": 1751510903888
+    }
+  ], 
+  "host": "www.novibet.bet.br", 
+  "total_requests": 2
+}
