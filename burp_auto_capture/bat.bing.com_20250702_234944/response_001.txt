@@ -1,0 +1,11 @@
+HTTP/2 204 No Content
+Vary: Origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Request-Context: appId=cid-v1:24d14d43-192c-49a0-9966-64b85dcb3cd6
+X-Cache: CONFIG_NOCACHE
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-Msedge-Ref: Ref A: 52D05416CA67461BB96741992E35B3D7 Ref B: GRU30EDGE1521 Ref C: 2025-07-03T02:48:21Z
+Date: Thu, 03 Jul 2025 02:48:21 GMT
+
