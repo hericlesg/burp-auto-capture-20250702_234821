@@ -1,0 +1,16 @@
+GET /s/settings/o-1HRTV4-na1/v1/web?ngsw-bypass=true HTTP/2
+Host: edge.fullstory.com
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
