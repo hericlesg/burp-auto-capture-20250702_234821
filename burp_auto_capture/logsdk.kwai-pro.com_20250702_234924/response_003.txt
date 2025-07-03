@@ -1,0 +1,8 @@
+HTTP/2 200 OK
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 73
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Access-Control-Allow-Credentials: true
+Date: Thu, 03 Jul 2025 02:48:25 GMT
+
+{"result":1,"hostName":"public-my01-c26-kce195.idcsgpaz2.sgp.kwaidc.com"}
