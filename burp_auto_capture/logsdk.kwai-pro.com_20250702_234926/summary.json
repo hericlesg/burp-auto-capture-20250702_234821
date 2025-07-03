@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250702_234926", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/logsdk.kwai-pro.com_20250702_234926/request_001.txt", 
+      "url": "https://logsdk.kwai-pro.com:443/rest/wd/common/log/collect/radar?v=3.10.28&kpn=ksib.fe.pixel", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/logsdk.kwai-pro.com_20250702_234926/response_001.txt", 
+      "timestamp": 1751510902945
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/logsdk.kwai-pro.com_20250702_234926/request_002.txt", 
+      "url": "https://logsdk.kwai-pro.com:443/rest/wd/common/log/collect/radar?v=3.10.28&kpn=ksib.fe.pixel", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/logsdk.kwai-pro.com_20250702_234926/response_002.txt", 
+      "timestamp": 1751510902945
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/logsdk.kwai-pro.com_20250702_234926/request_003.txt", 
+      "url": "https://logsdk.kwai-pro.com:443/rest/wd/common/log/collect/radar?v=3.10.28&kpn=ksib.fe.pixel", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/logsdk.kwai-pro.com_20250702_234926/response_003.txt", 
+      "timestamp": 1751510905509
+    }
+  ], 
+  "host": "logsdk.kwai-pro.com", 
+  "total_requests": 3
+}
