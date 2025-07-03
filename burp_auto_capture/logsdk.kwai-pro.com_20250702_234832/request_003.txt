@@ -1,0 +1,19 @@
+POST /rest/wd/common/log/collect/radar?v=3.10.28&kpn=ksib.fe.pixel HTTP/2
+Host: logsdk.kwai-pro.com
+Content-Length: 2730
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"common":{"identity_package":{"device_id":"web_845639569AEE3984","global_id":"","user_id":"-1"},"app_package":{"language":"en-US","platform":10,"container":"WEB","product_name":"ksib.fe.pixel"},"service_name":"radarSDKSupplement","device_package":{"os_version":"NT 10.0","model":"Windows","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"},"need_encrypt":false,"network_package":{"type":3},"h5_extra_attr":"{\"sdk_name\":\"webLogger\",\"sdk_version\":\"3.10.28\",\"sdk_bundle\":\"log.hybrid.js\",\"app_version_name\":\"\",\"host_product\":\"\",\"resolution\":\"2560x1080\",\"screen_width\":2560,\"screen_height\":1080,\"device_pixel_ratio\":1,\"domain\":\"https://www.novibet.bet.br\",\"fromIframe\":false}","global_attr":"{}"},"logs":[{"client_timestamp":1751510905131,"client_increment_id":14,"session_id":"4be6e2bb-61f5-4a66-bb84-103ff1d3ea33","time_zone":"GMT-03:00","stat_package":{"custom_stat_event":{"key":"radar_log","value":"{\"project_id\":\"5b88a5135h\",\"radar_session_id\":\"d0cc0eb1-56ca-4741-b654-bc10ffdf0093\",\"h5_extra_attr\":\"{\\\"sdk_name\\\":\\\"webLogger\\\",\\\"sdk_version\\\":\\\"3.10.28\\\",\\\"sdk_bundle\\\":\\\"log.hybrid.js\\\",\\\"host_product\\\":\\\"\\\",\\\"resolution\\\":\\\"2560x1080\\\",\\\"screen_width\\\":2560,\\\"screen_height\\\":1080,\\\"device_pixel_ratio\\\":1,\\\"domain\\\":\\\"https://www.novibet.bet.br\\\",\\\"fromIframe\\\":false,\\\"url\\\":\\\"https://www.novibet.bet.br/apostas-esportivas\\\",\\\"hash\\\":\\\"\\\",\\\"online\\\":true,\\\"downlink\\\":10,\\\"rtt\\\":100}\",\"data\":[{\"key\":\"event\",\"dimension\":{\"collect_version\":\"1.2.7\",\"collect_name\":\"RadarChromeMetricsCollect\",\"name\":\"lcp\",\"is_official\":1,\"sample_rate\":1,\"happen_stage\":\"during_fmp\",\"other_device_increase_id\":4,\"other_session_increase_id\":0},\"value\":{\"duration\":\"4232\"},\"h5_extra_attr\":\"{\\\"sdk_name\\\":\\\"webLogger\\\",\\\"sdk_version\\\":\\\"3.10.28\\\",\\\"sdk_bundle\\\":\\\"log.hybrid.js\\\",\\\"host_product\\\":\\\"\\\",\\\"resolution\\\":\\\"2560x1080\\\",\\\"screen_width\\\":2560,\\\"screen_height\\\":1080,\\\"device_pixel_ratio\\\":1,\\\"domain\\\":\\\"https://www.novibet.bet.br\\\",\\\"fromIframe\\\":false,\\\"url\\\":\\\"https://www.novibet.bet.br/apostas-esportivas\\\",\\\"hash\\\":\\\"\\\",\\\"online\\\":true,\\\"downlink\\\":10,\\\"rtt\\\":100}\",\"url_package\":{\"page\":\"https://www.novibet.bet.br/apostas-esportivas\",\"identity\":\"c79d76d0-2bfe-467e-84f4-159351774503\",\"page_type\":2},\"project_id\":\"5b88a5135h\",\"event_client_timestamp\":1751510904129,\"event_trigger_source\":\"H5\",\"radar_session_id\":\"d0cc0eb1-56ca-4741-b654-bc10ffdf0093\"}]}"}}}]}
