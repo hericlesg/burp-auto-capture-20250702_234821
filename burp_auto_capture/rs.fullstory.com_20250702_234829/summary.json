@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250702_234829", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234829/request_001.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=b8805ce8-9ed0-4dea-984b-43e788a615f0&Seq=6&ClientTime=1751510902489&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510649538&PrevBundleTime=1751510747260&DeltaT=152756&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234829/response_001.txt", 
+      "timestamp": 1751510903003
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234829/request_002.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=a51d12da-fa01-43c0-a416-de83a33093d2&Seq=12&ClientTime=1751510903007&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510526850&PrevBundleTime=1751510747259&DeltaT=153286&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234829/response_002.txt", 
+      "timestamp": 1751510903190
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234829/request_003.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=b8805ce8-9ed0-4dea-984b-43e788a615f0&Seq=5&ClientTime=1751510903196&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510649538&PrevBundleTime=1751510745884&DeltaT=155652&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234829/response_003.txt", 
+      "timestamp": 1751510903376
+    }
+  ], 
+  "host": "rs.fullstory.com", 
+  "total_requests": 3
+}
