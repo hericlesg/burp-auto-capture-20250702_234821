@@ -1,0 +1,103 @@
+{
+  "capture_timestamp": "20250702_234928", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_001.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=b8805ce8-9ed0-4dea-984b-43e788a615f0&Seq=6&ClientTime=1751510902489&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510649538&PrevBundleTime=1751510747260&DeltaT=152756&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_001.txt", 
+      "timestamp": 1751510903003
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_002.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=a51d12da-fa01-43c0-a416-de83a33093d2&Seq=12&ClientTime=1751510903007&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510526850&PrevBundleTime=1751510747259&DeltaT=153286&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_002.txt", 
+      "timestamp": 1751510903190
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_003.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=b8805ce8-9ed0-4dea-984b-43e788a615f0&Seq=5&ClientTime=1751510903196&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510649538&PrevBundleTime=1751510745884&DeltaT=155652&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_003.txt", 
+      "timestamp": 1751510903376
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_004.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=98b1a33f-f26e-4b08-822d-ca923f72bf86&Seq=1&ClientTime=1751510909596&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510901285&PrevBundleTime=0&LastActivity=1071&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_004.txt", 
+      "timestamp": 1751510909882
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_005.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=a51d12da-fa01-43c0-a416-de83a33093d2&Seq=11&ClientTime=1751510920023&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510526850&PrevBundleTime=1751510746561&DeltaT=172491&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_005.txt", 
+      "timestamp": 1751510920203
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_006.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=98b1a33f-f26e-4b08-822d-ca923f72bf86&Seq=2&ClientTime=1751510925709&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510901285&PrevBundleTime=1751510909319&LastActivity=14805&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_006.txt", 
+      "timestamp": 1751510925968
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_007.txt", 
+      "url": "https://rs.fullstory.com:443/rec/page?ngsw-bypass=true", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_007.txt", 
+      "timestamp": 1751510933490
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_008.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=98b1a33f-f26e-4b08-822d-ca923f72bf86&Seq=3&ClientTime=1751510936713&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510901285&PrevBundleTime=1751510925428&LastActivity=25814&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_008.txt", 
+      "timestamp": 1751510937235
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_009.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=0d6baa8b-f4c4-4203-990d-f3437db5d2f5&Seq=1&ClientTime=1751510944858&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510936567&PrevBundleTime=0&LastActivity=3&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_009.txt", 
+      "timestamp": 1751510945118
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_010.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=98b1a33f-f26e-4b08-822d-ca923f72bf86&Seq=4&ClientTime=1751510946593&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510901285&PrevBundleTime=1751510936739&LastActivity=35697&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_010.txt", 
+      "timestamp": 1751510946767
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_011.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=0d6baa8b-f4c4-4203-990d-f3437db5d2f5&Seq=2&ClientTime=1751510953683&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510936567&PrevBundleTime=1751510944574&LastActivity=2&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_011.txt", 
+      "timestamp": 1751510953884
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/request_012.txt", 
+      "url": "https://rs.fullstory.com:443/rec/bundle/v2?OrgId=o-1HRTV4-na1&UserId=cf497cd8-f586-406f-aa4b-4066c12f7fbb&SessionId=2591c3ab-3458-4c67-88b4-2ac8ae3bb36c&PageId=98b1a33f-f26e-4b08-822d-ca923f72bf86&Seq=5&ClientTime=1751510956025&CompiledVersion=c542e49cb8346cb800dc5560acfb1ebf07a99960&PageStart=1751510901285&PrevBundleTime=1751510946304&LastActivity=45127&ContentEncoding=gzip&ngsw-bypass=true", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/rs.fullstory.com_20250702_234928/response_012.txt", 
+      "timestamp": 1751510956215
+    }
+  ], 
+  "host": "rs.fullstory.com", 
+  "total_requests": 12
+}
